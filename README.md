@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peiyan0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-tau-bay.vercel.app?user=peiyan0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   <br />
   [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=peiyan0.peiyan0)](https://github.com/peiyan0)
 
