@@ -4,14 +4,15 @@
 
 <div align="center">
   
-  [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=peiyan0.peiyan0)](https://github.com/peiyan0)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=peiyan0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <br />
+  [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=peiyan0.peiyan0)](https://github.com/peiyan0)
 
   <br />
 
   <h3> 👨‍💻 About Me </h3>
   <p>
-   I'm a developer passionate about building useful tools that solve real-world problems. Currently, I'm focusing on <b>TypeScript</b>, <b>React</b>, and creating open-source solutions to help the community.
+   I'm a developer passionate about building useful tools that solve real-world problems. Currently, I'm focusing on <b>TypeScript</b>, <b>React</b>, <b>Spring Boot</b>, and creating open-source solutions to help the community.
   </p>
 
 </div>
@@ -20,20 +21,18 @@
 
 ### 🚀 Featured Project
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/peiyan0/referral-helper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peiyan0&repo=referral-helper&theme=tokyonight&hide_border=true&icon_color=4c566a&title_color=7aa2f7&text_color=a9b1d6" alt="Referral Helper" />
-  </a>
-</div>
-
-<br>
+#### 1. Referral Helper (Web/Dev Tool)
 
 > **[Referral Helper](https://github.com/peiyan0/referral-helper)** > A free, open-source tool designed to help job seekers create professional referral request messages, manage templates, and track networking outreach effectively.
 >
 > 🛠 **Tech Stack:** `TypeScript` `React` `TailwindCSS`
+<br>
 
+#### 2. AI Text Summarizer (AI/ML Application)
+
+> **[AI Text Summarizer](https://github.com/peiyan0/python-text-summarizer)** > A sophisticated yet efficient web application that summarizes long articles into concise text using optimized Hugging Face Transformers models (BART/T5-Small) with memory-efficient settings.
+>
+> 🛠 **Tech Stack:** `Python` `Streamlit` `Hugging Face Transformers`
 ---
 
 ### 🛠️ Languages & Tools
@@ -48,19 +47,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔗 Let's Connect!
 
 <div align="center">
-  <a href="https://github.com/peiyan0">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=peiyan0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Peiyan's GitHub Stats" />
+  <a href="https://portfolio-peiyan0s-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
   </a>
-  <a href="https://github.com/peiyan0">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peiyan0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://linkedin.com/in/howpeiyan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </div>
 
-<br />
+<br>
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Reach out—I'd love to collaborate and build something amazing together!</i>
 </div>
