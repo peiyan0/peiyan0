@@ -50,10 +50,10 @@
 ### 🔗 Let's Connect!
 
 <div align="center">
-  <a href="https://portfolio-peiyan0s-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-peiyan0s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
   </a>
-  <a href="https://linkedin.com/in/howpeiyan" target="_blank">
+  <a href="https://linkedin.com/in/howpeiyan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </div>
