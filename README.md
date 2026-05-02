@@ -30,7 +30,7 @@ I am a software engineer dedicated to building **intelligent creative tools** th
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[VibeMatch AI](https://github.com/peiyan0/ai-music-selection)** | Intelligent music matchmaker using CLIP to find monetization-safe CC0 tracks based on video mood. | `Python` `CLIP` `OpenCV` |
+| **[VibeMatch AI](https://github.com/peiyan0/VibeMatch-AI)** | Intelligent music matchmaker using CLIP to find monetization-safe CC0 tracks based on video mood. | `Python` `CLIP` `OpenCV` |
 | **[AI Text Summarizer](https://github.com/peiyan0/python-text-summarizer)** | Memory-efficient web app condensing long articles using Hugging Face's BART and T5 models. | `Python` `Streamlit` `HF` |
 | **[StopFrame](https://github.com/peiyan0/StopFrame)** | Browser-based studio converting standard video into professional stop-motion animation. | `React` `Framer` `Vite` |
 
