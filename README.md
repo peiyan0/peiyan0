@@ -59,7 +59,7 @@ I am a software engineer dedicated to building **intelligent creative tools** th
 ### 🔗 Let's Connect!
 
 <div align="center">
-  <a href="https://portfolio-peiyan0s-projects.vercel.app/" target="_blank">
+  <a href="https://portfolio-peiyan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/howpeiyan" target="_blank">
