@@ -30,9 +30,11 @@ I am a software engineer dedicated to building **intelligent creative tools** th
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[VibeMatch AI](https://github.com/peiyan0/VibeMatch-AI)** | Intelligent music matchmaker using CLIP to find monetization-safe CC0 tracks based on video mood. | `Python` `CLIP` `OpenCV` |
-| **[AI Text Summarizer](https://github.com/peiyan0/python-text-summarizer)** | Memory-efficient web app condensing long articles using Hugging Face's BART and T5 models. | `Python` `Streamlit` `HF` |
-| **[StopFrame](https://github.com/peiyan0/StopFrame)** | Browser-based studio converting standard video into professional stop-motion animation. | `React` `Framer` `Vite` |
+| **[VibeMatch AI](https://github.com/peiyan0/VibeMatch-AI)** | Intelligent music matchmaker analyzing video mood, tempo, and semantics with CLIP to find monetization-safe CC0 tracks. | `Python` `Streamlit` `CLIP` `OpenCV` |
+| **[StopFrame](https://github.com/peiyan0/StopFrame)** | Browser-based studio instantly converting standard video into professional stop-motion animation using client-side HTML5 Canvas. | `React` `Vite` `Framer Motion` `Canvas` |
+| **[CVD Vision AI](https://portfolio-peiyan.vercel.app/projects/cvd-accessibility-platform)** | AI accessibility platform with personalized calibration, semantic color remapping, and WCAG auditing for Color Vision Deficiency. | `React` `FastAPI` `TensorFlow.js` `OpenCV` |
+| **[Statistics Toolkit](https://github.com/peiyan0/ai-stats-toolkit)** | Professional predictive analytics suite featuring automated assumption audits and an Ollama-powered local hybrid RAG engine. | `Python` `Flask` `Ollama` `Scikit-Learn` |
+| **[AI Text Summarizer](https://github.com/peiyan0/python-text-summarizer)** | Advanced NLP web application for real-time article summarization with adjustable length and ROUGE performance metrics. | `Python` `Streamlit` `Hugging Face` `PyTorch` |
 
 </div>
 
@@ -41,17 +43,39 @@ I am a software engineer dedicated to building **intelligent creative tools** th
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <br />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+**Languages**
+<br />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+<br /><br />
+
+**Frameworks & Libraries**
+<br />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+<br /><br />
+
+**AI, Deep Learning & Infrastructure**
+<br />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
 </div>
 
 ---
